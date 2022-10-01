@@ -1539,4 +1539,7 @@ p{
     
   }
 
-  
+#map{
+  margin: auto;
+  overflow-y: auto;
+}
